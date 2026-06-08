@@ -80,6 +80,15 @@ body {
   line-height: 1.7;
 }
 
+.interest-list {
+  padding-left: 20px;
+}
+
+.interest-list li {
+  font-size: 1rem;
+  line-height: 2;
+}
+
 hr {
   border: none;
   border-top: 1px solid #ccc;
