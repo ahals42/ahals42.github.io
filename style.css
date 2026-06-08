@@ -94,3 +94,34 @@ hr {
   border-top: 1px solid #ccc;
   margin: 32px 0;
 }
+
+.year {
+  font-size: 0.85rem;
+  font-weight: normal;
+  color: #888;
+  margin: 40px 0 20px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.project {
+  margin-bottom: 32px;
+}
+
+.project-title {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.project-desc {
+  font-size: 0.95rem;
+  line-height: 1.75;
+  margin-bottom: 8px;
+}
+
+.project-link {
+  font-size: 0.85rem;
+  color: #111;
+  text-decoration: underline;
+}
